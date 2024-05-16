@@ -1,0 +1,21 @@
+nav{
+    background-color: cornflowerblue;
+    height: 100px;
+    margin-top: -20px;
+    margin: -20px;
+    
+    
+}
+
+body{
+    text-align: center;
+}
+
+div{
+    border-radius: 10px;
+    background-color: aquamarine;
+    
+    margin:  -10px 680px;
+    margin-top: 20px;
+}
+
